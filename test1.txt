@@ -1,1 +1,5 @@
 Test1 file is created for testing. from the github central repository to  clone from the local machine git
+
+Next step :
+
+    - Create or add new file in the githubemc3 folder to add -> commit - > push to the central repository
