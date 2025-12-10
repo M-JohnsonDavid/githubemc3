@@ -7,4 +7,4 @@ steps to be followed :
 
 Again add this file to the stagging area to commit and the commit next push to the origin where we want
 
-here i am going to edit this file from hithub itself. Then i am going to pull this from my working directory
+here i am going to edit this file from hithub itself. Then i am going to pull this from my working directory using "git pull" cmd
