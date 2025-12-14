@@ -1,5 +1,5 @@
 
-Not this test 2 file has to be added to the stagging area "Git add ." --> "Git commit -m "message" --> "Git push origin main"
+Now this test 2 file has to be added to the stagging area "Git add ." --> "Git commit -m "message" --> "Git push origin main"
 
 Next this file has to be updated and it should be reflected in the git hub.
 
